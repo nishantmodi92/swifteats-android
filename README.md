@@ -1,4 +1,4 @@
-🍔  🚀 FoodDeliveryApp – Real-Time Ordering & Live GPS Tracking
+🍔  SwiftEats – Real-Time Food Ordering & Live GPS Tracking
 <p> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FEC007?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Maps%20API-34A853?style=for-the-badge"/> <img src="https://img.shields.io/badge/Retrofit-FF6D00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Clean%20Architecture-1A73E8?style=for-the-badge"/> </p>
 
 📊 Key Metrics
