@@ -1,4 +1,4 @@
-🍔  <h1 align="center">FoodDeliveryApp — Full-Stack Food Ordering System</h1>
+ <h1 align="center">FoodDeliveryApp — Full-Stack Food Ordering System</h1>
 
 <p align="center">
 Real-time food ordering & delivery tracking app built with Kotlin, Maps API, Firebase & Clean Architecture.
@@ -85,7 +85,7 @@ Data Sources
 
 ## ⚙ Setup
 ```bash
-git clone https://github.com/nishantmodi92/FoodDeliveryApp
+git clone https://github.com/nishantmodi92/swifteats-android
 open in Android Studio → run
 
 
